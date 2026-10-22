@@ -1,0 +1,16 @@
+type: CoreBlock
+name: wip-core1
+localizedName: WIP
+description: essentially for early game, but can be used in remote bases such as "town"
+health: 6500
+alwaysUnlock: true
+squareSprite: false
+size: 3
+armour: 2
+itemCapacity: 5000
+unitCapModifier: 8
+unitType: wonder
+requirements: [
+   copper/1
+]
+category: effect

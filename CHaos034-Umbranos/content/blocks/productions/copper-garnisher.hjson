@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: copper-garnisher
+localizedName: Copper garnisher
+description: Combines molten silver and gold powder to produce electrum.
+liquidCapacity: 40
+squareSprite: false
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+craftTime: 120
+craftEffect: puff
+consumes: {
+  power: 16
+  items: copper/2
+  liquid: {
+    liquid: water
+    amount: 1
+  }
+}
+requirements: [
+  copper/50
+  graphite/80
+  silicon/60
+]
+category: crafting
+alwaysUnlock: true
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItems: [
+   brass/1
+]

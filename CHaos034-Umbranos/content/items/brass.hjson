@@ -1,0 +1,6 @@
+name: brass
+localizedName: Brass
+description: Used for gear technologies, foundation of structures, and anuminations
+lowPriority: true
+color: 74C2E8FF
+research: copper-compressor
