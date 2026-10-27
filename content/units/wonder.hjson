@@ -1,0 +1,21 @@
+type: flying
+name: wonder
+health: 150
+faceTarget: true
+armour: 0
+speed: 4.6
+mineWalls: false
+mineSpeed: 5
+engine: [
+   y: -1
+]
+mineTier: 1
+buildSpeed: 1.2
+accel: 0.05
+drag: 0.04
+lowAltitude: false
+shadowElevation: 0.08
+rotateSpeed: 7
+itemCapacity: 40
+moveSound: loopThruster
+research: wip-core1

@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: copper-garnisher
+localizedName: Copper garnisher
+description: Compresses copper to brass
+liquidCapacity: 40
+squareSprite: false
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+craftTime: 25
+craftEffect: smoke
+consumes: {
+  power: 0.2833333333
+  items: copper/7
+  liquid: {
+    liquid: water
+    amount: 0.0833333333
+  }
+}
+requirements: [
+  copper/50
+  graphite/80
+  silicon/60
+]
+category: crafting
+alwaysUnlock: true
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItems: [
+   brass/4
+]

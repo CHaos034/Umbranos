@@ -1,0 +1,11 @@
+name: heavy-oil-residue
+localizedName: Heavy oil residue
+description: driven with many components and impurities, must filtering it for another useful component
+temperature: 0.3
+explosiveness: 0.5
+flammability: 0.8
+viscosity: 0.8
+gas: false
+lightColor: 93651C
+color: 60400C
+research: oil

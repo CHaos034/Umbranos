@@ -1,0 +1,10 @@
+name: methane
+localizedName: Methane
+temperature: 0
+explosiveness: 0.8
+flammability: 1.5
+viscosity: 0.45
+gas: true
+lightColor: 99EEBA
+color: 6FFFA6
+research: hydrogen

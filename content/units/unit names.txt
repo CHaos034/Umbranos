@@ -1,0 +1,30 @@
+unit conception
+
+carrier- delivering in such places in a single sector
+wonder- t1 core unit
+
+0t- base template
+
+ground assault
+1t- Id
+2t- Arch
+3t- Heretic
+4t- Extripation
+5t- Malevolent
+6t- Depravity
+
+air assault
+1t- Numb
+2t- Acadia
+3t- Divine
+4t- Hallowing
+5t- Numinous
+6t- Seraphim
+
+mechanic strategy of factory set ups
+cell manufacturer - a size 3 block where all ai and operating system is made
+ground fabricator -
+air fabricator -
+2 reconstructor -
+cursed symbolism pentagram - one of the two gods haved you offered them to summon
+sacred offering altar - one of the two gods haved you offered them to summon

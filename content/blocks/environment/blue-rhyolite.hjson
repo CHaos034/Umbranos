@@ -1,0 +1,12 @@
+type: Floor
+name: blue-rhyolite
+description: Blue-grey volcanic rock. Like lunar regolith
+detail: it's not really what you think between this and shale
+variants: 5
+itemDrop: sand
+mapColor: A8B4C8
+playerUnminable: true
+attributes: {
+   heat: -1.4
+}
+wall: blue-rhyolite-wall

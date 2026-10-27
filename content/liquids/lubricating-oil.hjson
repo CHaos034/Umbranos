@@ -1,0 +1,10 @@
+name: Lubricating oil
+description: used for boost joint or axle in order to move swiftly
+temperature: 0
+explosiveness: 0
+flammability: 0.3
+viscosity: 0.1
+gas: false
+lightColor: FFD27F
+color: FFC044
+research: heavy-oil-residue

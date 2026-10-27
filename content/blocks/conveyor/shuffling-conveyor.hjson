@@ -1,0 +1,11 @@
+type: Conveyor
+name: shuffling-conveyor
+displayName: Shuffling conveyor
+description:
+speed: 0.12
+size: 1
+requirements: [
+   copper/1
+]
+research: brass
+category: distribution 

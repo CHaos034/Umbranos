@@ -1,0 +1,8 @@
+type: Wall
+name: blue-rhyolite-wall
+displayName: Blue rhyolite wall
+description: Blue-grey volcanic rock. Like lunar regolith
+variants: 3
+itemDrop: sand
+mapColor: A8B4C8
+playerUnminable: false
